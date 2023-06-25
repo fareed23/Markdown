@@ -206,7 +206,9 @@ print(c)
 
 > citation
 
-- [ ] Checkboxes
+- [ ] Checkbox
+
+- [x] Ticked Checkbox
 
 ```
 code block
